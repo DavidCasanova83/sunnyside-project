@@ -12,7 +12,7 @@ take look here ! https://sunnyside-project-aqnvstepx-dvd83130.vercel.app/
 
 ## Overview
 
-Just simple QR code page - 
+wbe site with login and signup in html css javascript and php.
 
 ### Screenshot
 
