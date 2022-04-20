@@ -16,7 +16,7 @@ Just simple QR code page -
 
 ### Screenshot
 
-![](./screenshot.PNG)
+![](./screenshot01.PNG)
 
 ### Links
 
