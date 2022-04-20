@@ -1,0 +1,210 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+/* HEADER */
+
+
+.header{
+    color: white;
+    height: 100vh;
+    background: url(./image/image-header.jpg) center center/cover;
+}
+
+.header a{
+ color: white;
+ padding:12px 24px 12px 24px;
+}
+
+.header a:hover{
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    font-weight: 700;
+}
+
+.header-nav{
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav ul{
+    display: flex;
+}
+
+.header-nav ul li{
+    list-style: none;
+    width: 120px;
+}
+
+.header-content{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-content h1{
+    margin-top: 5rem;
+    font-size: 4rem;
+}
+
+
+/* MAIN */
+
+.main{
+}
+
+/* SECTION SIGNUP */
+
+.signup{
+    display: flex;
+}
+
+.signup-content{
+    height: 75vh;
+    width: 50%;
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.signup-content *{
+    padding: 1rem;
+}
+
+.signup-content h2{
+    font-size: 2rem;
+}
+.signup-content p{
+    text-align: justify;
+}
+.signup-content h3{
+    font-size: 1rem;
+    text-transform: uppercase; 
+}
+
+
+
+.signup-img{
+    background: url(./image/image-transform.jpg) center;
+    height: 75vh;
+    width: 50%;
+}
+
+/* SECTION LOGIN */
+
+.login{
+    display: flex;
+}
+
+.login-img{
+    background: url(./image/image-stand-out.jpg) center/cover;
+    height: 75vh;
+    width: 50%;
+}
+
+.login-content{
+    height: 75vh;
+    width: 50%;
+    padding: 5rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.login-content *{
+    padding: 1rem;
+}
+
+.login-content h2{
+    font-size: 2rem;
+}
+.login-content p{
+    text-align: justify;
+}
+.login-content h3{
+    font-size: 1rem;
+    text-transform: uppercase; 
+}
+
+/* SECTION SERVICES */
+.services{
+    display: flex;
+}
+
+.services-graphic-img{
+    background: url(./image/image-graphic-design.jpg) center/cover;
+    height: 75vh;
+    width: 50%;
+    padding: 2rem 5rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.services-graphic-img *{
+    padding: 0.6rem;
+}
+
+.services-graphic-img h2{
+    text-align: center;
+    font-size: 1.3rem;
+}
+.services-graphic-img p{
+    text-align: center;
+}
+
+.services-photography-img{
+    background: url(./image/image-photography.jpg) center/cover;
+    height: 75vh;
+    width: 50%;
+    padding: 2rem 5rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.services-photography-img *{
+    padding: 0.6rem;
+}
+
+.services-photography-img h2{
+    text-align: center;
+    font-size: 1.3rem;
+}
+.services-photography-img p{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/* FOOTER */
+
+.footer{
+    background-color: #3DBEFF;
+    height: 25vh;
+}
+
+
+
+
+
