@@ -16,7 +16,7 @@ wbe site with login and signup in html css javascript and php.
 
 ### Screenshot
 
-![](./screenshot01.PNG)
+![](./screenshot01.png)
 
 ### Links
 
